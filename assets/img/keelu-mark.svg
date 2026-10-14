@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Keelu">
+  <title>Keelu</title>
+  <g fill="none" stroke="#d9b45a" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="60" cy="60" r="56" stroke-opacity=".55"/>
+    <!-- rays -->
+    <path d="M44 36 L18 28 M44 40 L14 40 M44 44 L18 52 M76 36 L102 28 M76 40 L106 40 M76 44 L102 52" stroke-opacity=".8"/>
+    <!-- dome -->
+    <path d="M48 30 L60 19 L72 30 Z" fill="#d9b45a"/>
+    <!-- lantern room -->
+    <rect x="49" y="30" width="22" height="18" rx="1.5"/>
+    <!-- gallery -->
+    <path d="M44 48 H76 M46 52 H74"/>
+    <!-- tower -->
+    <path d="M50 52 L45 104 H75 L70 52"/>
+    <path d="M48.6 68 H71.4 M47.2 84 H72.8" stroke-opacity=".7"/>
+    <path d="M57 104 V94 a3 3 0 0 1 6 0 V104"/>
+    <!-- base waves -->
+    <path d="M24 108 q6 -4 12 0 t12 0 t12 0 t12 0 t12 0 t12 0" stroke-opacity=".7"/>
+  </g>
+  <!-- mirror + flame -->
+  <circle cx="60" cy="39" r="6.5" fill="#d9b45a" fill-opacity=".25" stroke="#d9b45a" stroke-width="2"/>
+  <path d="M60 33.5 C63.5 37 63.5 40.5 60 44 C56.5 40.5 56.5 37 60 33.5 Z" fill="#f0c36a"/>
+</svg>
